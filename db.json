@@ -9,13 +9,13 @@
     {
       "id": 2,
       "name": "Vic Rivero Films ",
-      "rating": 4.8,
+      "rating": 4,
       "photo": "https://cdn0.hitched.co.uk/emp/fotos/3/0/6/9/t10_videographers-vic-rivero-f-20200213061807638.jpg"
     },
     {
       "id": 3,
       "name": "Special Occasion Video Productions",
-      "rating": 4.9,
+      "rating": 3,
       "photo": "https://cdn0.hitched.co.uk/emp/fotos/4/4/9/1/t10_videographers-special-occa-20200214042955924.jpg"
     },
     {
@@ -29,6 +29,12 @@
       "name": "James OHalloran Studios",
       "rating": 5,
       "photo": "https://cdn0.hitched.co.uk/emp/fotos/9/5/4/1/t10_videographers-james-ohallo-20190929080156575.jpg"
+    },
+    {
+      "id": 6,
+      "name": "MomentsCatchers",
+      "rating": 5,
+      "photo": "http://www.momentscatchers.co.uk/images/full-width-images/MAIN_3.jpg"
     }
   ]
 }
